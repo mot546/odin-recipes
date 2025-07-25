@@ -1,3 +1,45 @@
 body{
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: 0px auto;
+    
+}
+
+.description, .ingredients, .steps{
+    margin: 0 auto;
+    width: 1000px;
+}
+
+#home{
+    margin-left: 90px;
+}
+
+#title{
+    text-align: center;
+    margin: 8px auto;
+}
+
+img{
+    float: right;
+    width: 200px;
+    height: auto;
+    border-radius: 8px;
+}
+
+ul{
+    list-style-type: none;
+    padding: 0px;
+    margin: 0;
+}
+
+ol{
+    padding: 0;
+    margin: 16px;
+}
+
+li{
+    margin: 8px;
+}
+
+div h2{
+    margin: 16px 8px 0 0;
 }
